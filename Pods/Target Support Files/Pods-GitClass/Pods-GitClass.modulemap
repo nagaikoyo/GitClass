@@ -1,0 +1,6 @@
+framework module Pods_GitClass {
+  umbrella header "Pods-GitClass-umbrella.h"
+
+  export *
+  module * { export * }
+}
